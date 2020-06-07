@@ -1,0 +1,34 @@
+.one{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    
+}
+
+.contact{
+    display: inline-block;
+    background-color: lightskyblue;
+    min-width: 10%;
+    max-width: 100%;
+}
+img{
+    min-width: 5%;
+    max-width: 100%;
+}
+.two{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 60px;
+    background-color: orchid;
+    font-size: large;
+    font-style: italic;
+}
+/* .card{ */
+    display: inline-block;
+    min-width: 10%;
+    max-width: 100%;
+}
+
+
+
